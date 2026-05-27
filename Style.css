@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
+
+
+#mocchi {
+    float: left;
+    width: 65px;
+    height: 65px;
+}
+
+#disco {
+    float: right;
+    height: 32px;
+}
+
+.taitol {
+    font-family: "Pixelify Sans";
+    width: 900px;
+    font-size: 50px;
+    font-weight: 300;
+    background-color: aquamarine;
+    color: blueviolet;
+    background-size: auto;
+}
+
+#kaito {
+    float:left;
+}
+
+#windows {
+    float:right;
+}
+
+html {
+    background-image: url(https://i.pinimg.com/originals/f2/ff/82/f2ff82037fcc5a2305be0ee82d79e893.gif);
+    background-size: 100%;
+}
+
+.pie {
+    font-family: "Pixelify Sans";
+    background-color: aquamarine;
+    color: blueviolet;
+
+}
+
+.bio-pie {
+    width: 900px;
+    margin-top: 5px;
+    font-family: "Pixelify Sans";
+    background-color: aquamarine;
+    color: blueviolet;
+}
+
+#hapiness {
+    width: 300px;
+}
